@@ -1,0 +1,1 @@
+git clone --recursive https://github.com/tianocore/edk2-staging.git -b MicroPythonTestFramework
